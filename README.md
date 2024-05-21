@@ -1,1 +1,1 @@
-Supplementary materials for the paper "Low-Complexity Quantized Prescribed Performance Control for Constrained Steer-by-Wire Systems with Input Nonlinearity and Bandwidth Limitations". Please download and read on your own. Thank you. 
+Supplementary materials for the paper "Low-Complexity Quantized Prescribed Performance Control for Constrained Steer-by-Wire Systems with Input Nonlinearity and Bandwidth Limitations". Please download and read on your own (1.Click "Code"; 2.Click "Download ZIP"). Thanks. 
